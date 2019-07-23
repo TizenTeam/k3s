@@ -1,0 +1,5 @@
+k3s (0.0.0-1) unstable; urgency=medium
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Philippe Coval <philippe@www.rzr.example.org>  Tue, 23 Jul 2019 10:22:49 +0200
