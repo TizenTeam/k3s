@@ -9,7 +9,7 @@ The requirements to build `CFSSL` are:
 
 To build, run:
 
-    $ script/build-docker    
+    $ script/build-docker
 
 This is will build by default all the cfssl command line utilities
 for darwin (OSX), linux, and windows for i386 and amd64 and output the
